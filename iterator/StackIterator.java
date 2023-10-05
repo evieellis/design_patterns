@@ -9,7 +9,8 @@ import java.util.Stack;
  * @author Evelyn Ellis
  * @version 1.0
  */
-public class StackIterator implements Iterator{
+
+public class StackIterator implements Iterator {
 /*
  * elements store:
  *  items - the String collection of elements to be iterated through
