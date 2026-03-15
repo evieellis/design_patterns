@@ -2,13 +2,7 @@
 
 This repository contains work from a software engineering course assignment focused on **design patterns**—reusable solutions to common problems in object-oriented and software design.
 
-## What this shows (for recruiters)
-
-- **Understanding of core OO design concepts**: separation of concerns, composition over inheritance, and interface-driven design.
-- **Ability to apply patterns intentionally**: selecting a pattern based on constraints (extensibility, testability, coupling) rather than using patterns “just because.”
-- **Communication of design tradeoffs**: documenting why a pattern fits a given problem and what alternatives were considered.
-
-## Repository contents
+## Repo contents
 
 - Pattern implementations and/or supporting materials created as part of the assignment.
 - Any included examples are intended to demonstrate pattern structure, roles, and collaboration between components.
